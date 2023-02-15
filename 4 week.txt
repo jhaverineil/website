@@ -1,0 +1,41 @@
+-------------------------------------Day 1--------------------------------------------
+Date: 13/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Git
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 136 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Core Concepts of Github
+2. Quick Installations of Github
+3. The Basics of Github
+4. Advanced Beyond the basics related to Github
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 2--------------------------------------------
+Date: 14/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Git
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 144 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Welcome to GitHub
+2. SSH Authentication
+3. Github Repository
+4. Github Repository branches
+
+STATUS OF LEARNING / WORKING : all good

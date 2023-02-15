@@ -1,0 +1,90 @@
+------------------------------------Day 1--------------------------------------------------------
+24/01/2023
+
+InTime :- 10:00 am
+OutTime :- 6:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 8 Hours.
+
+Today's work :- Details description of today's work.
+		1. Fundamental of Javascript Part 1.
+		2. Fundamental of Javascript Part 2.
+		3. Developer Skills & Editor Setup
+		4. HTML & CSS Crash Course
+		5. Coding Challenges upto Developer Skills & Editor Setup
+
+*STATUS OF LEARNING / WORKING* : all good
+
+-------------------------------------Day 2-------------------------------------------------------
+25/01/2023
+
+InTime :- 10:00 am
+OutTime :- 6:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 16 Hours.
+
+Today's work :- Details description of today's work.
+		1. Project 1: Guess My Number.
+		2. Project 2: Modal Window.
+		3. Project 3: Pig Game.
+		4. How Javascript works behind the scenes.
+		5. Destructuring Arrays & Objects.
+		6. Understanding use of Spread Operator.
+		7. Rest Pattern and Parameters
+		8. Short Circuiting (AND & OR Operators)
+		9. The Nullish Coalescing Operator
+
+*STATUS OF LEARNING / WORKING* : all good
+
+-------------------------------------Day 3-------------------------------------------------------
+26/01/2023
+
+InTime :- 10:00 am
+OutTime :- 6:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 24 Hours.
+
+Today's work :- Details description of today's work.
+		1. Working with Data Structures (array,set,object,map).
+		2. Understanding working of Modal Operators.
+		3. Handling Strings
+		4. Coding Challenges (1,2,3,4)
+
+*STATUS OF LEARNING / WORKING* : all good
+
+-------------------------------------Day 4-------------------------------------------------------
+27/01/2023
+
+InTime :- 9:45 am
+OutTime :- 6:15 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 32 Hours.
+
+Today's work :- Details description of today's work.
+1. Default parameters
+2. How Passsing arguments works value vs reference
+3. First class and Higher order
+4. Function accepting callback function
+5. Function returning function
+6. The call,apply and bind method
+7. immediately invoke function expression
+8. Closure and more Closure example
+9. Coding challenge (1,2)
+
+*STATUS OF LEARNING / WORKING* : all good

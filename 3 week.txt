@@ -1,0 +1,149 @@
+-------------------------------------Day 1--------------------------------------------
+Date: 06/02/2023
+
+InTime :- 12:00 am
+OutTime :- 08:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 88 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Asynchronous JavaScript,AJAX and APIs
+2. AJAX call XMLHttpRequest
+3. Welcome to Callback Hell
+4. Promises and the Fetch API
+5. Consuming Promises
+6. Chaining Promises
+7. Handling Rejected Promises
+8. Throwing Error Manually
+9. Coding Challenge (1)
+10. Asynchronous Behind the Scenes The Event Loop
+11. Event loop
+12. Building a Simple promise
+
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 2--------------------------------------------
+Date: 07/02/2023
+
+InTime :- 12:00 am
+OutTime :- 08:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 96 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Promisifying the Geolocation API
+2. Coding Challenge 2.
+3. Consuming Promises with AsyncAwait
+4. Error Handling with try...catch
+5. Returning Values from Async Functions
+6. Running Promises in Parallel
+7. Other Promise Combinators race, allSettled and any
+8. Coding challenge 3.
+9. An Overview of Modern JavaScript Development
+10. An Overview of Modules in JavaScript
+11. Exporting and Importing in ES6 Modules
+12. The Module Pattern
+13. CommonJS Modules
+
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 3--------------------------------------------
+Date: 08/02/2023
+
+InTime :- 09:45 am
+OutTime :- 06:15 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 104 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Modern JavaScript Development Modules, Tooling, and Functional(complete)
+2. Forkify App project (Started)
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 4--------------------------------------------
+Date: 09/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 112 Hours.
+
+Today's work :- Details description of today's work.
+
+1.  Loading a Recipe from API.
+2.  Rendering the Recipe.
+3.  Listening for load and hashchange events.
+4.  MVC Architecture.
+5.  Helpers and Configuration Files.
+6.  Event Handling in MVC Publisher-Subscriber Pattern.
+7.  Implementing Error and Success Messages.
+8.  Implementing Search Results
+9.  Implementing Pagination.
+10. Updating Recipe Servings.
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 5--------------------------------------------
+
+Date: 10/02/23
+
+InTime : 09:45 am
+OutTime : 06:15 pm
+
+Name : Neil Jhaveri
+LearnTechnology : JavaScript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 120 Hours.
+
+Today's learn :-
+
+1. Given Test.
+2. Revisied All JavaScript Concepts.
+3. Solved JS Problems from leetcode, Geeks for Geeks
+4. Completed the remaining Forkify App.
+
+
+STATUS OF LEARNING / WORKING: All good.
+
+-------------------------------------Day 6--------------------------------------------
+
+Date: 11/02/23
+
+InTime : 08:00 am
+OutTime : 04:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : JavaScript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 128 Hours.
+
+Today's learn :-
+
+1. Javascript Fully Completed.
+2. Coding practice on Geeks for Geeks and Leetcode
+
+STATUS OF LEARNING / WORKING: All good.

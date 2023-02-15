@@ -1,0 +1,175 @@
+-------------------------------------Day 1--------------------------------------------
+30/01/2023
+
+InTime :- 9:30 am
+OutTime :- 6:00 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 40 Hours.
+
+Today's work :- Details description of today's work.
+1. Simple Array Methods
+2. Looping arrays forEach
+3. forEach with maps ans sets
+4. Creating DOM elements
+5. Data transformations map,filter,reduce
+6. The map method
+7. Computimg usernames
+8. The filter Method
+9. The reduce Method
+10. Understanding chaining methods
+11. The Find Method
+12. Coding challenge (1,2,3)
+
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 2--------------------------------------------
+31/01/2023
+
+InTime :- 9:45 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 48 Hours.
+
+Today's work :- Details description of today's work.
+1. Find and FindIndex Method 
+2. Flat and FlatMap
+3. Sorting Arrays
+4. Coding challenge (4)
+5. Converting and Checking Numbers
+6. Math and rounding
+7. The Remainder Operator
+8. Working with BigInt
+9. Creating date and implementing it into Bankist App
+
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 3--------------------------------------------
+01/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 56 Hours.
+
+Today's work :- Details description of today's work.
+1. Internationalize Dates and numbers.
+2. Operation with Dates
+3. TimerSet and SetInterval.
+4. Implementing countdown timer.
+5. Selecting ,creating and deleting elements using DOM.
+6. Styles, Attributes and Classes.
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 4--------------------------------------------
+
+02/02/2023
+
+InTime :- 10:00 am
+OutTime :- 6:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 64 Hours.
+
+Today's work :- Details description of today's work.
+
+1. The forEach Helper
+2. The map helper
+3. thefilter helper
+4. the find helper
+5. the evry and some helper
+6. the reduce helper
+7. ConsLet
+8. template strings
+9. arrow function
+10. Enhanced object Literals
+11. Default Function Arguments
+12. Rest and Spread Operator
+13. Destructuring
+14. Classes
+15. Generators
+16. Promises and Fetch
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 5--------------------------------------------
+
+03/02/2023
+
+InTime :- 9:00 am
+OutTime :- 5:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 72 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Types of Events, Event Handlers and Event Propagation (Bubbling)
+2. Event Delegation Implementation
+3. DOM Traversing
+4. Building a Tabbed Component
+5. Passing Arguments to Events
+6. Understanding Lazy Loading
+7. Building a Slider Component
+8. OOP's in Javascript
+9. Constructor Functions and new operator
+10. Prototypes, Prototypal inheritance and Prototype chain item
+11. Coding challenge (1,2)
+12. ES6 classes
+13. Getter and Setter
+14. Static methods
+15. Object Creation
+16. Understanding concepts of inheritance
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 6--------------------------------------------
+
+04/02/2023
+
+InTime :- 09:00 am
+OutTime :- 05:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Javascript
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 80 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Understanding Geolocation API
+2. Displaying the Map using leaflet library
+3. Displaying a Map marker
+4. Randering workout input form
+5. Learning Project Architecture
+6. Refactoring for project Architecture
+7. Managing workout data creating classes
+8. Creating a new workout
+9. Learning How to Randering workout
+10. Move to marker on click
+11. Working with local storage
+12. Full Project Completed
+
+
+STATUS OF LEARNING / WORKING : all good
