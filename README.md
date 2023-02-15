@@ -1,5 +1,4 @@
 # my-website
 
 This is a description of my new website.
-Do it please and please support me
-Now I changed the readme file.
+Updates made on master on Github before rebase
