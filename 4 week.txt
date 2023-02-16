@@ -60,3 +60,24 @@ Today's work :- Details description of today's work.
 4. GitHub Repository
 
 STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 4--------------------------------------------
+Date: 16/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Git
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 160 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Comparing Differences on GitHub
+2. Socal Coding on GitHub
+3. GitHub Issues
+4. GitHub Gists
+
+STATUS OF LEARNING / WORKING : all good
