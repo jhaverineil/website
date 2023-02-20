@@ -8,13 +8,11 @@ Name : Neil Jhaveri
 LearnTechnology : Git
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 152 Hours.
+Total Learn / Work Hours : 176 Hours.
 
 Today's work :- Details description of today's work.
 
-1. Welcome to GitHub
-2. SSH Authentication
-3. Github Repository
-4. Github Repository branches
+1. Understand different Linux commands.
+2. Tried out unexplored commands of github.
 
 STATUS OF LEARNING / WORKING : all good
