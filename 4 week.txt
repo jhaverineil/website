@@ -81,3 +81,23 @@ Today's work :- Details description of today's work.
 4. GitHub Gists
 
 STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 5--------------------------------------------
+Date: 17/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Git
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 168 Hours.
+
+Today's work :- Details description of today's work.
+
+1. GitHub Organization
+2. GitHub Practice
+3. GitHub Exam
+
+STATUS OF LEARNING / WORKING : all good
