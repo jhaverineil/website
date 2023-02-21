@@ -1,0 +1,18 @@
+-------------------------------------Day 1--------------------------------------------
+Date: 20/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Git
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 176 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Understand different Linux commands.
+2. Tried out unexplored commands of github.
+
+STATUS OF LEARNING / WORKING : all good
