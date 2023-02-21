@@ -1,0 +1,70 @@
+Weekly Report for 1st week (23-01-2023 to 27-01-2023)
+
+*23-01-2023 => On first day overview of the company was given and the technology to study was provided.
+
+*24-01-2023 => Different modules of Javascript were given on this day from which Fundamentals of Javascript Part 1 & 2 was completed which includes different concepts such as Data types, template literals, truthy and falsy values, conditional statements, Arrow function , Looping etc. Along with this different coding challenges were completed.
+
+*25-01-2023 => Three demo projects were completed which were Guess My Number, Modal Window, Pig Game based on Javascript concepts. Guess My Number was a project in which one have to guess the hidden number. Modal Window was a project in which modal manuplation was carried out. Pig game was a 2 player dice related game.  
+
+*26-01-2023 => Few newer concepts of javascript were explored and understand such as Destructing of Arrays & Objects, Spread Operator, Rest Pattern & Parameters, Short Circuiting and Nullish Coalescing Operator.  
+
+*27-01-2023 => On this day I took a closure look to the functions in javascript and understand different concepts such as default parameters, first class and higher order, callback function, function returning function, call & apply method, bind method, closure & immediately invoke function expression. 
+
+
+Weekly Report for 2nd week (30-01-2023 to 04-02-2023)
+
+*30-01-2023 => Understand different functionalities and methods associated with data structures (array,set,object & map) such as filter, map, reduce, forEach, find, findIndex, some & every, flat & flatMap etc and also completed coding challenges to understand use of this methods properly.
+
+*31-01-2023 => Starting with another demo project called Bankist app and applying all the methods learned before to create this project . This project was based on a banking system in which one can perform different tasks such as taking loan, withdrawing money, deposit money and send money to different peoples.
+
+*01-02-2023 => Some important and useful concepts were learned by me which were Internationalize Dates & numbers, Methods related to Dates, SetInterval, SetTimeout, CRUD operation using DOM etc and using this concepts the I enhanced the Bankist app and finally completed.
+
+*02-02-2023 => On this day I learned different important topics related to ES6 such as Helper classes, ConstLet, enhanced object literals, default function arguments, generators, Promises and Fetch. Using this I tried to solve coding problems from different platforms.  
+
+*03-02-2023 => Understand concepts related to OOP's in Javascript such as Constructor functions, new operator, prototypes, prototypal inheritance, prototype chaining, getter & setter, classes, static methods, object creation, inheritance in classes etc. Also understand important concepts related to enhancement of a website. 
+
+*04-02-2023 => Started a new demo project called Mapty in which Geolocation API and Leaflet library was used in order to provide a map based workout marking system. In this project classes along core concepts of Javascript is used. Finally full project was completed on this day itself.
+
+Weekly Report for 3rd week (06-02-2023 to 11-02-2023)
+
+*06-02-2023 => Learned in depth the major concepts of Javascript such as Asynchronous (Async & Await), AJAX, APIs, XMLHttpRequest, fetching APIs, chaining promises, handling rejected promises, throwing errors manually, event loop etc.
+
+*07-02-2023 => I continued understanding the previous day topics along with some newer topics related to modules in Javascript i.e. exporting and importing in ES6 modules, module pattern, CommonJS modules etc.
+
+*08-02-2023 => Started with another new demo project called Forkify App .This project is based on providing recipe of large variety of food items so one can prepare it at home easily. ParcelJs library is used in this project along with an implementation of sass.  
+
+*09-02-2023 => On this day I continued with the building of the demo project (Forkify) and completed varies task such as Loading a Recipe from an API, listening for load and hashchange events, event handling in MVC Publisher-Subscriber Pattern, error and success messages, search results etc. Finally I completed the project.
+
+*10-02-2023 => On this day test based on Javascript was taken using coderbyte in order to progress to the new technology. In the test 3 coding problems were given having different hardness level i.e. medium,hard.
+
+*11-02-2023 => Remaining topics of Javscript were completed along with some more coding practice on different platforms namely leetcode , geeks for geeks etc.
+
+
+Weekly Report for 4th week (13-02-2023 to 18-02-2023)
+
+*13-02-2023 => On this day new technology Git was given to learn along with the necessary modules. I completed some modules on this day which were based on quick installation of github, basics of github and advanced topics of github.
+
+*14-02-2023 => Understand the concepts of repository and branches in github along with necessary commands related to perform different task in github. Also established a ssh connection with the github profile using ssh authentication. 
+
+*15-02-2023 => Learned and understand other github related concepts such as tags, releases, pull and comparsion along with the commands required to implement this concepts in github from local repository.
+
+*16-02-2023 => Completed remaining modules of github such as comparing differences on github, socal coding on github, github issues, github gists and github organizations. Also I practice the commands that I have learned.
+
+*17-02-2023 => On this day Github test was conducted in which a set a task were given which I completed using github commands. There were approximately 35 task which covers mostly all the topics learned from the given modules.
+
+
+Weekly Report for 5th week (20-02-2023 to 25-02-2023)
+
+*20-02-2023 => 
+
+*21-02-2023 => 
+
+*22-02-2023 => 
+
+*23-02-2023 => 
+
+*24-02-2023 => 
+
+*25-02-2023 => 
+
+
