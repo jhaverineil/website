@@ -62,3 +62,25 @@ Today's work :- Details description of today's work.
 9. Intro to Backend vs Frontend
 
 STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 4--------------------------------------------
+
+Date: 23/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 200 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Node.js Fundamentals Internals
+2. Node.js Fundamentals Module System
+3. Node.js Fundamentals Package Management
+4. Node.js File IO - Planets Project
+
+STATUS OF LEARNING / WORKING : all good
