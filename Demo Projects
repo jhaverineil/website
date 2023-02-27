@@ -1,0 +1,15 @@
+1. Guess My Number -> A demo project created using Javascript which is based on a game in which one has to guess the hidden number between 1 to 20 generated randomly and then the score is decided based on the number of tries required by that person to guess the number correctly.
+
+2. Modal Window -> A demo project in which modal windows were manupilated using Javascript events listeners.
+
+3. Pig Game -> A game created using Javascript based on a 1v1 dice game in which player1 & player2 have to roll the dice one by one and gather points according to the number on dice i.e 3 on dice = +3 points etc. The one reaching 100 points first wins. 
+
+Note:- If 1 is obtained on rolling the dice then no points are granted and also the chance switch to the next player
+
+4. Bankist App -> A demo project in which all the functionalities related to banking system such as withdrawing money, sending money to another person , taking a loan and also depositing money to the account are added using core concepts of Javascript.
+
+5. Forkify App -> It is a project based on a recipe application using which a person can easily find out the recipe he/she wanted to make a nice dish. This demo project is based on ParcelJs as well as core concepts of Javascript.
+
+6. Planets Project -> It is a demo project based on Node.js in which habitable planets are extracted from the data obtained from the NASA's Kepler Mission.
+
+7. NASA Project -> It is a demo project based on Node.js in which a person can add future missions & launches , abort those missions & launches and also fetch those missions & launches. In this project MVC architecture is used in implementing this functionalities.
