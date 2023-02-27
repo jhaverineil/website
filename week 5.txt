@@ -84,3 +84,43 @@ Today's work :- Details description of today's work.
 4. Node.js File IO - Planets Project
 
 STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 5--------------------------------------------
+
+Date: 24/02/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8:30 Hours.
+Total Learn / Work Hours : 208 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Web Servers with Node.js
+2. First Express.js API with mini projects
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 6--------------------------------------------
+
+Date: 25/02/2023
+
+InTime :- 8:00 am
+OutTime :- 03:00 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 7 Hours.
+Total Learn / Work Hours : 215 Hours.
+
+Today's work :- Details description of today's work.
+
+1. NASA Project Partially Completed till video no. 19
+
+STATUS OF LEARNING / WORKING : all good
+
