@@ -50,29 +50,31 @@ Today's work :- Details description of today's work.
 STATUS OF LEARNING / WORKING : all good
 
 -------------------------------------Day 3--------------------------------------------
+Date: 02/03/2023
 
-Date: 22/02/2023
-
-InTime :- 10:10 am
-OutTime :- 06:40 pm
+InTime :- 09:50 am
+OutTime :- 06:30 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 192 Hours.
+Total Learn / Work Hours : 240 Hours.
 
 Today's work :- Details description of today's work.
 
-1. exploring linux commands
-2. Introduction to Node.js
-3. Node.js Installation
-4. The Node.js REPL
-5. Setting up Developer Environment
-6. First Node.js App Created
-7. Node.js VS Javasript
-8. The Global Object
-9. Intro to Backend vs Frontend
+1. Running Search Queries
+2. Loading SpaceX Data
+3. Mapping SpaceX Data to MongoDB Database
+4. Implementing Pagination in the API
+5. Minimizing API Load
+6. Sorting Paginated Data
+7. Cleaning up Launch Data
+8. Managing Secrets with Dotenv
+9. Updating Tests for Mongoose
+10. Understanded implementation of axios package
+11. Implementation of handlebar.js
+12. Implementation of nodemailer
 
 STATUS OF LEARNING / WORKING : all good
 
