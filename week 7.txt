@@ -1,0 +1,171 @@
+-------------------------------------Day 1--------------------------------------------
+Date: 06/03/2023
+
+InTime :- 10:05 am
+OutTime :- 06:35 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 264 Hours.
+
+Today's work :- Details description of today's work.
+```
+
+1. Pipelines
+2. GitHub Actions
+3. Implementing Continuous Integration build pipeline
+4. Build pipeline in action
+5. Mocking out Databases
+6. Databases with Continuous Integration
+7. Populating Data for CI
+8. Serverless vs Containers
+9. Virtual Machines
+10. Installing Docker
+11. Running first docker container
+12. Creating a DockerHub Account
+13. Creating a DockerFile
+14. Improving DockerFile with Layers
+15. Updating the NASA API URL
+16. Building NASA Project Docker Image
+17. Running NASA Project in a Container
+18. Pushing Images to DockerHub
+19. GraphQL Overview
+20. First GraphQL Query
+
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 2--------------------------------------------
+Date: 07/03/2023
+
+InTime :- 11:05 am
+OutTime :- 04:45 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 6 Hours.
+Total Learn / Work Hours : 270 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. GraphQL Queries in Action
+2. GraphQL vs REST Over-fetching & Under-fetching
+3. Exploring GraphQL Implementations
+4. GraphiQL
+5. Designing An E-Commerce Schema
+6. GraphQL Tools
+7. Modularizing Large GraphQL Projects Schemas
+8. Resolvers
+9. Modularizing Large GraphQL Projects Resolvers
+10. Filtering with Queries and Resolvers
+11. Implemented Queries to Fetch Products by ID.
+12. Mutations in Action
+13. Implementing Mutation on the Server
+14. Adding New Product Review Mutation
+15. GraphQL with Apollo
+16. Building an Apollo Server with Node.js
+17. Introduction to Sockets
+18. Polling
+19. WebSockets
+
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 3--------------------------------------------
+Date: 02/03/2023
+
+InTime :- 09:50 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 240 Hours.
+
+Today's work :- Details description of today's work.
+
+1. Running Search Queries
+2. Loading SpaceX Data
+3. Mapping SpaceX Data to MongoDB Database
+4. Implementing Pagination in the API
+5. Minimizing API Load
+6. Sorting Paginated Data
+7. Cleaning up Launch Data
+8. Managing Secrets with Dotenv
+9. Updating Tests for Mongoose
+10. Understanded implementation of axios package
+11. Implementation of handlebar.js
+12. Implementation of nodemailer
+
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 4--------------------------------------------
+
+Date: 03/03/2023
+
+InTime :- 10:00 am
+OutTime :- 06:36 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 248 Hours.
+
+Today's work :- Details description of today's work.
+```
+
+1. Encrypted Connections with SSL and TLS
+2. Digital Certificates, Signing and Man in the Middle Attacks
+3. HTTPS with Node, Self Signed Certificates, and Public Key Cryptography
+4. Helmet.js
+5. Authentication vs Authorization
+6. Social Sign-in
+7. API keys
+8. JWT TOkens
+9. The OAuth Standard
+10. OAuth 2.0 Authorization Code Flow
+11. OAuth in Action with Single Sign On
+12. Registering with Google Authorization Server
+13. Authentication Endpoints with Middleware
+14. Passport.js
+15. Dotenv for Client Secrets
+16. Authentication with Google and OAuth Part 1
+
+```
+STATUS OF LEARNING / WORKING : all good
+
+-------------------------------------Day 5--------------------------------------------
+
+Date: 04/03/2023
+
+InTime :- 8:45 am
+OutTime :- 05:15 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Node.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 256 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Authentication with Google and OAuth Part 2
+2. Cookie Based Authentication
+3. Sessions
+4. Server VS Client Side Sessions With Cookies
+5. Session Middleware in Express
+6. Setting Up OAuth Cookie Session
+7. Reading and Writing the OAuth Session
+8. Restricting Access to Endpoints
+9. Implementing Logout
+10. Experimenting with Fake Sessions
+11. Understanded Continuous Integration, Deployment and Development
+
+```
+
+STATUS OF LEARNING / WORKING : all good
