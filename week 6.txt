@@ -80,62 +80,67 @@ STATUS OF LEARNING / WORKING : all good
 
 -------------------------------------Day 4--------------------------------------------
 
-Date: 23/02/2023
+Date: 03/03/2023
 
 InTime :- 10:00 am
-OutTime :- 06:30 pm
+OutTime :- 06:36 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 200 Hours.
+Total Learn / Work Hours : 248 Hours.
 
 Today's work :- Details description of today's work.
+```
 
-1. Node.js Fundamentals Internals
-2. Node.js Fundamentals Module System
-3. Node.js Fundamentals Package Management
-4. Node.js File IO - Planets Project
+1. Encrypted Connections with SSL and TLS
+2. Digital Certificates, Signing and Man in the Middle Attacks
+3. HTTPS with Node, Self Signed Certificates, and Public Key Cryptography
+4. Helmet.js
+5. Authentication vs Authorization
+6. Social Sign-in
+7. API keys
+8. JWT TOkens
+9. The OAuth Standard
+10. OAuth 2.0 Authorization Code Flow
+11. OAuth in Action with Single Sign On
+12. Registering with Google Authorization Server
+13. Authentication Endpoints with Middleware
+14. Passport.js
+15. Dotenv for Client Secrets
+16. Authentication with Google and OAuth Part 1
 
+```
 STATUS OF LEARNING / WORKING : all good
 
 -------------------------------------Day 5--------------------------------------------
 
-Date: 24/02/2023
+Date: 04/03/2023
 
-InTime :- 10:00 am
-OutTime :- 06:30 pm
-
-Name : Neil Jhaveri
-LearnTechnology : Node.js
-
-Today's Learn / Work Hours : 8:30 Hours.
-Total Learn / Work Hours : 208 Hours.
-
-Today's work :- Details description of today's work.
-
-1. Web Servers with Node.js
-2. First Express.js API with mini projects
-
-STATUS OF LEARNING / WORKING : all good
-
--------------------------------------Day 6--------------------------------------------
-
-Date: 25/02/2023
-
-InTime :- 8:00 am
-OutTime :- 03:00 pm
+InTime :- 8:45 am
+OutTime :- 05:15 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
-Today's Learn / Work Hours : 7 Hours.
-Total Learn / Work Hours : 215 Hours.
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 256 Hours.
 
 Today's work :- Details description of today's work.
+```
+1. Authentication with Google and OAuth Part 2
+2. Cookie Based Authentication
+3. Sessions
+4. Server VS Client Side Sessions With Cookies
+5. Session Middleware in Express
+6. Setting Up OAuth Cookie Session
+7. Reading and Writing the OAuth Session
+8. Restricting Access to Endpoints
+9. Implementing Logout
+10. Experimenting with Fake Sessions
+11. Understanded Continuous Integration, Deployment and Development
 
-1. NASA Project Partially Completed till video no. 19
+```
 
 STATUS OF LEARNING / WORKING : all good
-

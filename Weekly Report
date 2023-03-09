@@ -67,4 +67,18 @@ Weekly Report for 5th week (20-02-2023 to 25-02-2023)
 
 *25-02-2023 => 
 
+Weekly Report for 6th week (27-02-2023 to 04-03-2023)
+
+*27-02-2023 => On this day I learned how to test APIs using packages such as Jest and Supertest. Also I learned different concepts that helped me improve performance of my Node.js application such has clusters, worker threads and PM2 package
+
+*28-02-2023 => I started working with MongoDB Atlas and understand different concepts such as Schemas, Upsert Operation, Models etc. And using this I implemented CRUD Operation in NASA Demo Project. 
+
+*01-03-2023 => On this day I started working with SpaceX API and performed different tasks such as Mapping the SpaceX API to the NASA Demo Project, Pagination in API, Sorting the Data, Storing secrets in Dotenv file.
+
+*02-03-2023 => Understanded implementation of different npm packages such as handlebar.js, axios, nodemailer, chalk and many more. Using this packages I improved my NASA Demo Project.
+
+*03-03-2023 => Understanded concepts related to security and authentication using SSL for Security and JWT for providing authentication to the user. Also learned bcrypt.js used for password hashing.
+
+*04-03-2023 => 
+
 
