@@ -1,76 +1,59 @@
 -------------------------------------Day 1--------------------------------------------
-Date: 06/03/2023
 
-InTime :- 10:05 am
-OutTime :- 06:35 pm
+Date: 13/03/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 264 Hours.
+Total Learn / Work Hours : 302 Hours.
 
 Today's work :- Details description of today's work.
 ```
-
-1. Pipelines
-2. GitHub Actions
-3. Implementing Continuous Integration build pipeline
-4. Build pipeline in action
-5. Mocking out Databases
-6. Databases with Continuous Integration
-7. Populating Data for CI
-8. Serverless vs Containers
-9. Virtual Machines
-10. Installing Docker
-11. Running first docker container
-12. Creating a DockerHub Account
-13. Creating a DockerFile
-14. Improving DockerFile with Layers
-15. Updating the NASA API URL
-16. Building NASA Project Docker Image
-17. Running NASA Project in a Container
-18. Pushing Images to DockerHub
-19. GraphQL Overview
-20. First GraphQL Query
-
+1. Implemented Authentication using JWT.
+2. Signing up Users
+3. Logging Users
+4. Protecting Tour Routes
+5. Advanced Postman setup
+6. Authorizating User based Roles and Permissions
+7. Password Reset Functionality and Reset Token
+8. Sending Emails Using Nodemailer
+9. Updating Password
+10. Updating User Data
+11. Deleting Current User
 ```
 *STATUS OF LEARNING / WORKING : all good*
 
 -------------------------------------Day 2--------------------------------------------
-Date: 07/03/2023
+Date: 15/03/2023
 
-InTime :- 11:05 am
-OutTime :- 04:45 pm
+InTime :- 9:00 am
+OutTime :- 05:30 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
-Today's Learn / Work Hours : 6 Hours.
-Total Learn / Work Hours : 270 Hours.
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 310 Hours.
 
 Today's work :- Details description of today's work.
 ```
-1. GraphQL Queries in Action
-2. GraphQL vs REST Over-fetching & Under-fetching
-3. Exploring GraphQL Implementations
-4. GraphiQL
-5. Designing An E-Commerce Schema
-6. GraphQL Tools
-7. Modularizing Large GraphQL Projects Schemas
-8. Resolvers
-9. Modularizing Large GraphQL Projects Resolvers
-10. Filtering with Queries and Resolvers
-11. Implemented Queries to Fetch Products by ID.
-12. Mutations in Action
-13. Implementing Mutation on the Server
-14. Adding New Product Review Mutation
-15. GraphQL with Apollo
-16. Building an Apollo Server with Node.js
-17. Introduction to Sockets
-18. Polling
-19. WebSockets
-
+1. Sending JWT via Cookie
+2. Implementing Rate Limiting
+3. Setting Security HTTP Headers
+4. Data Sanitization
+5. Preventing Parameter Pollution
+6. Created Review Model
+7. Modelling Tour Guides Embedding and child referencing
+8. Populating Tour Guides
+9. Modelling Reviews Parent Referencing
+10. Populating Reviews
+11. Virtual Populate
+12. Nested Routes
+13. Building Handler Factory Functions
 ```
 *STATUS OF LEARNING / WORKING : all good*
 
