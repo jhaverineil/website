@@ -52,31 +52,29 @@ Today's work :- Details description of today's work.
 *STATUS OF LEARNING / WORKING : all good*
 
 -------------------------------------Day 3--------------------------------------------
-Date: 22/03/2023
+Date: 29/03/2023
 
-InTime :- 10:00 am
-OutTime :- 06:30 pm
+InTime :- 09:45 am
+OutTime :- 06:15 pm
 
 Name : Neil Jhaveri
 LearnTechnology : Node.js
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 334 Hours.
+Total Learn / Work Hours : 382 Hours.
 
 Today's work :- Details description of today's work.
 ```
-1. Adding Image Uploads to Form
-2. Uploading Multiple Images - Tours
-3. Processing Multiple Images
-4. Buidling a Complex Email Handler
-5. Email Templates with Pug - Welcome Emails
-6. Worked on ResumeMaker Demo Project
-
+1. Added Validation Pipe while creating a task
+2. Error Handling in Getting a non-existing task
+3. Error Handling in Deleting a non-existing task
+4. Validating Updating task status
+5. Validating Task filtering and search
 ```
 *STATUS OF LEARNING / WORKING : all good*
 
 -------------------------------------Day 4--------------------------------------------
-Date: 23/03/2023
+Date: 30/03/2023
 
 InTime :- 10:00 am
 OutTime :- 06:30 pm
@@ -85,59 +83,20 @@ Name : Neil Jhaveri
 LearnTechnology : Node.js
 
 Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 342 Hours.
+Total Learn / Work Hours : 390 Hours.
 
 Today's work :- Details description of today's work.
 ```
-1. Sending Password Reset Emails
-2. Using Sendgrid for Real Emails
-3. Credit Card Payments with Stripe
-4. Integrating Stripe into Back-end
-5. Processing Payments on the Front-End
-6. Modelling the Bookings
-```
-*STATUS OF LEARNING / WORKING : all good*
-
--------------------------------------Day 5--------------------------------------------
-
-Date: 24/03/2023
-
-InTime :- 10:00 am
-OutTime :- 06:30 pm
-
-Name : Neil Jhaveri
-LearnTechnology : Node.js
-
-Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 350 Hours.
-
-Today's work :- Details description of today's work.
-```
-1. Creating new bookings on checkout success
-2. Rendering a user's booked tours
-3. Finishing the booking API 
-4. Add new templates and functionality in ResumeMaker Demo Project
-```
-*STATUS OF LEARNING / WORKING : all good*
-
--------------------------------------Day 6--------------------------------------------
-
-Date: 25/03/2023
-
-InTime :- 09:00 am
-OutTime :- 05:30 pm
-
-Name : Neil Jhaveri
-LearnTechnology : Node.js
-
-Today's Learn / Work Hours : 8 Hours.
-Total Learn / Work Hours : 358 Hours.
-
-Today's work :- Details description of today's work.
-```
-1. Solved different NodeJS sample questions.
-2. Explored different types of libraries used for frontend development.
-3. Optimized the ResumeMaker Demo Project code.
+1. Introduction to Persistence
+2. Running PostgreSQL via Docker
+3. Setting up pgAdmin
+4. Creating a Database using pgAdmin
+5. Introduction to TypeORM
+6. Setting up a Database Connection
+7. Creating a Task Entity
+8. Active Record vs Data Mapper Patterns
+9. Creating a Tasks Repository
+10. Configuring a Custom Repository.
 ```
 *STATUS OF LEARNING / WORKING : all good*
 

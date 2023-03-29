@@ -111,11 +111,11 @@ Weekly Report for 10th week (27-03-2023 to 31-03-2023)
 
 *27-03-2023 => I learned and implemented Cron job scheduling in NodeJS, migrated data in MongoDB, explored various aggregation operators, and implemented a logger in NodeJS.
 
-*28-03-2023 =>  I learned and implemented a Task Module in NestJs, including a Task Controller and Service. I also defined a Task Model and added features for getting and creating tasks.
+*28-03-2023 => I learned and implemented a Task Module in NestJs, including a Task Controller and Service. I also defined a Task Model and added features for getting, creating and deleting a particular task.
 
-*29-03-2023 => 
+*29-03-2023 => Understand use of DTO (Data Transfer Object) and implemented createTaskDto for fetching the request body and then applied necessary validation using validation pipe and required validation libraries.
 
-*30-03-2023 =>
+*30-03-2023 => I learned and implemented how to use PostgreSQL via Docker, set up pgAdmin, create a database, configure a custom repository, and more using TypeORM's data mapper pattern.
 
 *31-03-2023 =>
 
