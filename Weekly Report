@@ -53,32 +53,70 @@ Weekly Report for 4th week (13-02-2023 to 18-02-2023)
 *17-02-2023 => On this day Github test was conducted in which a set a task were given which I completed using github commands. There were approximately 35 task which covers mostly all the topics learned from the given modules.
 
 
-Weekly Report for 5th week (20-02-2023 to 25-02-2023)
-
-*20-02-2023 => 
-
-*21-02-2023 => 
-
-*22-02-2023 => 
-
-*23-02-2023 => 
-
-*24-02-2023 => 
-
-*25-02-2023 => 
-
 Weekly Report for 6th week (27-02-2023 to 04-03-2023)
 
 *27-02-2023 => On this day I learned how to test APIs using packages such as Jest and Supertest. Also I learned different concepts that helped me improve performance of my Node.js application such has clusters, worker threads and PM2 package
 
-*28-02-2023 => I started working with MongoDB Atlas and understand different concepts such as Schemas, Upsert Operation, Models etc. And using this I implemented CRUD Operation in NASA Demo Project. 
+*28-02-2023 => I started working with MongoDB Atlas and understand different concepts such as Schemas, Upsert Operation, Models etc. And using this I implemented CRUD Operation in NASA Demo Project.
 
-*01-03-2023 => On this day I started working with SpaceX API and performed different tasks such as Mapping the SpaceX API to the NASA Demo Project, Pagination in API, Sorting the Data, Storing secrets in Dotenv file.
+*02-03-2023 => On this day I started working with SpaceX API and performed different tasks such as Mapping the SpaceX API to the NASA Demo Project, Pagination in API, Sorting the Data, Storing secrets in Dotenv file.
 
-*02-03-2023 => Understanded implementation of different npm packages such as handlebar.js, axios, nodemailer, chalk and many more. Using this packages I improved my NASA Demo Project.
+*03-03-2023 => Understanded implementation of different npm packages such as handlebar.js, axios, nodemailer, chalk and many more. Using this packages I improved my NASA Demo Project.
 
-*03-03-2023 => Understanded concepts related to security and authentication using SSL for Security and JWT for providing authentication to the user. Also learned bcrypt.js used for password hashing.
+*04-03-2023 => I gained knowledge about encrypted connections using SSL and TLS, digital certificates, and HTTPS. I also learned about authentication and authorization, social sign-in, API keys, JWT tokens, and the OAuth standard. I also started implementing OAuth and Google authorization using Passport.js and dotenv for client secrets.
 
-*04-03-2023 => 
+Weekly Report for 7th week (06-03-2023 to 11-03-2023)
+
+*06-03-2023 =>  I continued to work with OAuth and Google authorization, as well as gaining knowledge about cookie-based authentication and sessions. I learned about implementing middleware and restricting access to endpoints, as well as how to implement logout functionality.
+
+*07-03-2023 => Learned about pipelines and implementing CI/CD using GitHub Actions, as well as how to mock out databases for testing. I also gained experience with containerization using Docker, building DockerFiles, and pushing images to DockerHub.
+
+*08-03-2023 => Holiday
+
+*09-03-2023 => I worked on GraphQL, learning about its advantages over REST, implementing queries and mutations, modularizing large projects, and using GraphQL with Apollo to build an e-commerce schema.
+
+*10-03-2023 =>  I started working on building the Natouri API, connecting it to a MongoDB database, validating incoming requests, and implementing CRUD operations to interact with the database.
+
+*11-03-2023 => I learned to implement query methods and pagination in Natours API, as well as aggregation pipeline methods. I also worked with virtual properties and document, query, and aggregation middleware in Mongoose. Additionally, I gained knowledge in data validation using built-in and custom validators.
+
+Weekly Report for 8th week (13-03-2023 to 18-03-2023)
+
+*13-03-2023 => I learned to debug Node.js API using ndb, handle unhandled routes, and implement global error handling middleware. I also worked on handling errors in async functions, modeling user schema, creating new users, managing passwords, and implementing bcryptjs for password encryption.
+
+*14-03-2023 => On Birthday Leave
+
+*15-03-2023 =>  I implemented authentication using JWT, sign up and log in users, protect tour routes, and set up advanced Postman features. I also implemented authorization on user-based roles and permissions, implemented password reset functionality, sending emails using Nodemailer, and updating user data and passwords, as well as deleting current users.
+
+*16-03-2023 => On Leave
+
+*17-03-2023 => On Leave
+
+*18-03-2023 => On Leave
+
+Weekly Report for 9th week (20-03-2023 to 25-03-2023)
+
+*20-03-2023 => I gained knowledge in sending JWT via cookie, implementing rate limiting, setting security HTTP headers, and data sanitization. I also learned to prevent parameter pollution, model review and tour guide embedding and child referencing, populate reviews and tour guides, implement virtual populate, create nested routes, and build handler factory functions.
+
+*21-03-2023 => I learned to calculate average tour ratings, prevent duplicate reviews, and implement geospatial queries. I also gained knowledge in creating API documentation with Postman. Started with Server Side rendering using Pug Template Engine.
+
+*22-03-2023 => I learned to include a map with Mapbox, build a login screen, log in and log out users, and create user account pages.Also I implemented user data and passwords updating, implementing image uploads using multer, and saving images to the database.
+
+*23-03-2023 => I gained knowledge in uploading and processing multiple images for tours, building a complex email handler, and creating email templates with Pug for welcome emails.
+
+*24-03-2023 => I learned and implemented credit card payments with Stripe, integrated it into the back-end, and processed payments on the front-end. I also modeled and created bookings, rendered booked tours, completed the booking API, and added new templates to a Natours demo project.
+
+*25-03-2023 => On this day I finally completed my Natours Project and tested it using Jest & supertest and added some necessary error response.
+
+Weekly Report for 10th week (27-03-2023 to 31-03-2023)
+
+*27-03-2023 => I learned and implemented Cron job scheduling in NodeJS, migrated data in MongoDB, explored various aggregation operators, and implemented a logger in NodeJS.
+
+*28-03-2023 =>  I learned and implemented a Task Module in NestJs, including a Task Controller and Service. I also defined a Task Model and added features for getting and creating tasks.
+
+*29-03-2023 => 
+
+*30-03-2023 =>
+
+*31-03-2023 =>
 
 
