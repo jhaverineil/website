@@ -1,0 +1,124 @@
+-------------------------------------Day 1
+--------------------------------------------
+
+Date: 10/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 446 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Understand Implementation of UseMemo and UseCallback
+2. Introduction to Redux
+3. Learned Basics of Class based Components
+4. Explored AdminJs
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 2--------------------------------------------
+Date: 11/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 454 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Fetched Movie API
+2. Manipulated the Movie API
+3. Implemented Chat functionality in ResumeMaker Demo Project
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 3--------------------------------------------
+Date: 12/04/2023
+
+InTime :- 10:05 am
+OutTime :- 06:35 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 462 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Building Custom React Hooks
+2. Working with Forms and User Input
+3. Adding Http & Forms to Food Order App
+5. Started with Redux
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 4--------------------------------------------
+Date: 13/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 470 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Redux Completed
+2. Learned React + TypeScript
+3. Made Todo App using ReactJs and TypeScript 
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 14/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 478 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Explored Redux Toolkit
+2. Learned how to use Redux Thunk using Redux Toolkit
+3. Explored different UI components of material UI.
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 15/04/2023
+
+InTime :- 08:10 am
+OutTime :- 04:40 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 486 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Understood the File Structure Assigned by Yash Sir.
+2. Understood NodeJs with TypeScript.
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+

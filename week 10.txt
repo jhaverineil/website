@@ -58,7 +58,7 @@ InTime :- 09:45 am
 OutTime :- 06:15 pm
 
 Name : Neil Jhaveri
-LearnTechnology : Node.js
+LearnTechnology : Nest.js
 
 Today's Learn / Work Hours : 8 Hours.
 Total Learn / Work Hours : 382 Hours.
@@ -76,11 +76,11 @@ Today's work :- Details description of today's work.
 -------------------------------------Day 4--------------------------------------------
 Date: 30/03/2023
 
-InTime :- 10:00 am
-OutTime :- 06:30 pm
+InTime :- 10:15 am
+OutTime :- 06:45 pm
 
 Name : Neil Jhaveri
-LearnTechnology : Node.js
+LearnTechnology : Nest.js
 
 Today's Learn / Work Hours : 8 Hours.
 Total Learn / Work Hours : 390 Hours.

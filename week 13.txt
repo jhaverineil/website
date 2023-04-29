@@ -1,0 +1,181 @@
+-------------------------------------Day 1
+--------------------------------------------
+
+Date: 17/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : ReactJs
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 494 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. BE and FE task assign by Yash Sir.
+2. Completed BE by adding CRUD Operation on Users Model. Also added Pagination and sorting feature.
+3. Also started integrating BE with FE .
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 2--------------------------------------------
+Date: 18/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 502 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Integrated CRUD operation with FE
+2. Also Added User Data Validation
+3. Integrated Search Functionality
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 3--------------------------------------------
+Date: 19/04/2023
+
+InTime :- 09:00 am
+OutTime :- 05:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 510 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Started working on the Zoho Task
+2. Made some API related to adding and retrieving Folder and File Data
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 4--------------------------------------------
+Date: 20/04/2023
+
+InTime :- 09:00 am
+OutTime :- 05:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 518 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Added GetFolderByName API Route using Aggregate Function.
+2. Also Added Rename and Deleting Folders and Files API Route.
+3. Created account on Firebase and Created a Starter Project.
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 20/04/2023
+
+InTime :- 10:10am
+OutTime :- 06:40 pm
+
+Name : Neil Jhaveri
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 526 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Created New Firebase Storage Bucket.
+2. Connected Firebase Storage Bucket with NodeJs using Firebase Admin.
+3. Implemented File Uploading and Download URL Retrieval.
+4. Also stored download url in the database. 
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 25/04/2023
+
+InTime :- 09:05 am
+OutTime :- 05:35 pm
+
+Name : Neil Jhaveri
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 550 Hours.
+
+Today's work :- Details description of today's work.
+```
+- Added File Rename and Delete Files by id.
+- Also Added Get Trash Endpoint that returns deleted files and folders.
+- Added Small Changes Folders Schema.
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+
+-------------------------------------Day 5--------------------------------------------
+Date: 26/04/2023
+
+InTime :- 09:00 am
+OutTime :- 05:00 pm
+
+Name : Neil Jhaveri
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 558 Hours.
+
+Today's work :- Details description of today's work.
+```
+- Optimized the Get Trash Endpoint.
+- Added Restore Files and Folders Endpoint.
+- Added multiple Files Uploading Functionality
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 27/04/2023
+
+InTime :- 09:10 am
+OutTime :- 05:40 pm
+
+Name : Neil Jhaveri
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 566 Hours.
+
+Today's work :- Details description of today's work.
+```
+- Added Move Files to Another Folder Endpoint
+- Also created new Files Schema along with the Folders Schema
+- Added Rename File Endpoint
+- Fixed some bugs and errors
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 28/04/2023
+
+InTime :- 09:10 am
+OutTime :- 05:40 pm
+
+Name : Neil Jhaveri
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 574 Hours.
+
+Today's work :- Details description of today's work.
+```
+- Fixed some bugs and errors
+- Improved Restore files and folders Endpoint
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+
+
+

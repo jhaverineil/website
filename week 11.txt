@@ -1,0 +1,147 @@
+-------------------------------------Day 1
+--------------------------------------------
+
+Date: 03/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Nest.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 398 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Adding Database Functionality (Postgres)
+2. Setting up AuthModule, User Entity and User Repository
+3. Validation Credentails and Password Strength
+4. Username Conflicts Handling
+5. Password Hashing 
+6. Adding Sign-in Feature
+7. Setting up JWT Module and Passport.js
+8. Signing a JWT Token on Sign In
+9. Implementing JWT Validation
+10. Custom @GetUser Decorator
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 2--------------------------------------------
+Date: 04/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Nest.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 406 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Deployment
+2. Unit Testing
+3. GraphQl + MongoDB
+4. Creating Lesson Module and defining the Lesson GraphQl Type
+5. Creating Lesson Resolver and Lesson Entity
+6. getLesson GraphQl Query with MongoDb
+7. Validation for Create Lesson Input
+8. Creating Get All Lessons,Get Student By Id GraphQl Query
+9. Creating Student Module and Create Student Mutation
+10. Assign Students To Lesson GraphQl Mutation
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 3--------------------------------------------
+Date: 05/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : Nest.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 414 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Completed remaining NestJs Modules 
+2. Revised NodeJs Modules and Packages
+3. Started ReactJs Course
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 4--------------------------------------------
+Date: 06/04/2023
+
+InTime :- 10:00 am
+OutTime :- 06:30 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 422 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Started with ReactJs Demo Project
+2. Analyzed a standard react project
+3. Build a custom component
+4. Passing data via Props
+5. Splitting Components into multiple components
+6. Organizing component files
+7. Created an email template.
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 07/04/2023
+
+InTime :- 10:05 am
+OutTime :- 06:35 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 430 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. React Basics and Working with components
+2. React State and Working with events
+3. Rendering Lists and Conditional Content
+4. Styling React Components
+5. Debugging React Apps
+6. A Complete Practice Project
+7. Working with Fragments, Portals and Refs
+8. Handling Side Effects, Using Reducers
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+-------------------------------------Day 5--------------------------------------------
+Date: 08/04/2023
+
+InTime :- 09:30 am
+OutTime :- 06:00 pm
+
+Name : Neil Jhaveri
+LearnTechnology : React.js
+
+Today's Learn / Work Hours : 8 Hours.
+Total Learn / Work Hours : 438 Hours.
+
+Today's work :- Details description of today's work.
+```
+1. Handling Context API
+2. Understanding useRef and Forward Ref
+3. Completed Food Order Demo Practice App
+4. Learned Optimization techniques in ReactJs
+```
+*STATUS OF LEARNING / WORKING : all good*
+
+
